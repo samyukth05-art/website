@@ -544,9 +544,12 @@ body{
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-12-21 220431.png>)
-![alt text](<Screenshot 2025-12-21 220448.png>)
-![alt text](<Screenshot 2025-12-21 220502.png>)
-![alt text](<Screenshot 2025-12-21 220513.png>)
+<img width="1917" height="898" alt="Screenshot 2025-12-21 220431" src="https://github.com/user-attachments/assets/b3eafa79-be38-45ae-8a9e-91173b0a5818" />
+<img width="1912" height="908" alt="Screenshot 2025-12-21 220448" src="https://github.com/user-attachments/assets/5adefdf0-e944-4de6-8bf3-bb94dd6ca047" />
+<img width="1919" height="889" alt="Screenshot 2025-12-21 220502" src="https://github.com/user-attachments/assets/11fb65f3-11ca-4c40-b6db-d60ab7acc221" />
+<img width="1919" height="883" alt="Screenshot 2025-12-21 220513" src="https://github.com/user-attachments/assets/fa27f81e-19c5-48be-bfa8-48b16cf598b2" />
+
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
